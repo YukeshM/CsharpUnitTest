@@ -1,0 +1,16 @@
+D:\gislen\cSharp\ms_unit_test\calculator\bin\Debug\net5.0\calculator.exe
+D:\gislen\cSharp\ms_unit_test\calculator\bin\Debug\net5.0\calculator.deps.json
+D:\gislen\cSharp\ms_unit_test\calculator\bin\Debug\net5.0\calculator.runtimeconfig.json
+D:\gislen\cSharp\ms_unit_test\calculator\bin\Debug\net5.0\calculator.runtimeconfig.dev.json
+D:\gislen\cSharp\ms_unit_test\calculator\bin\Debug\net5.0\calculator.dll
+D:\gislen\cSharp\ms_unit_test\calculator\bin\Debug\net5.0\ref\calculator.dll
+D:\gislen\cSharp\ms_unit_test\calculator\bin\Debug\net5.0\calculator.pdb
+D:\gislen\cSharp\ms_unit_test\calculator\obj\Debug\net5.0\calculator.csproj.AssemblyReference.cache
+D:\gislen\cSharp\ms_unit_test\calculator\obj\Debug\net5.0\calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\gislen\cSharp\ms_unit_test\calculator\obj\Debug\net5.0\calculator.AssemblyInfoInputs.cache
+D:\gislen\cSharp\ms_unit_test\calculator\obj\Debug\net5.0\calculator.AssemblyInfo.cs
+D:\gislen\cSharp\ms_unit_test\calculator\obj\Debug\net5.0\calculator.csproj.CoreCompileInputs.cache
+D:\gislen\cSharp\ms_unit_test\calculator\obj\Debug\net5.0\calculator.dll
+D:\gislen\cSharp\ms_unit_test\calculator\obj\Debug\net5.0\ref\calculator.dll
+D:\gislen\cSharp\ms_unit_test\calculator\obj\Debug\net5.0\calculator.pdb
+D:\gislen\cSharp\ms_unit_test\calculator\obj\Debug\net5.0\calculator.genruntimeconfig.cache
